@@ -1,0 +1,16 @@
+Lab 2
+Sean Cox
+Yuchen Yao
+CS1D
+Lebowitz
+
+A man a plan a canal Panama is a Palindrome
+The rain in Spain is not a Palindrome
+No lemon, no melon is a Palindrome
+radar is a Palindrome
+CS1D is not a Palindrome
+Was it a cat I saw is a Palindrome
+Racecar is a Palindrome
+Saddleback is not a Palindrome
+mom is a Palindrome
+dad is a Palindrome
